@@ -60,6 +60,7 @@ p {
 
 .currency select {
   padding: 10px 20px 10px 10px;
+  width: 300px;
   border: 1px solid var(--secondary-color);
   outline: none;
   font-size: 1rem;
@@ -88,6 +89,7 @@ p {
 
 .rate {
   color: var(--primary-color);
+  font-size: 2rem;
   padding: 0 10px;
 }
 
